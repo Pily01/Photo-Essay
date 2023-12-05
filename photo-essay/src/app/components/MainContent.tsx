@@ -43,7 +43,7 @@ export default function MainContent() {
             adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.
           </p>
           
-          <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">Marriage and Parenthood</h2>
+          <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900"><span className='text-yellow-600'>Marriage</span> and Love</h2>
           <ImageCard imageAlt="profile" imageCaption="Wedding day at the altar." imageSrc="https://media.discordapp.net/attachments/873425447772356608/1181057144972386355/Boda_yaya_y_el_abuelo_2.jpg?ex=657fac2e&is=656d372e&hm=465824cca5927881e622ed3c191477b6dcff08b9358436cd7668a5b0d6ce3572&=&format=webp&width=1005&height=1339"/>
           <p className="mt-6">
             Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh.
@@ -104,11 +104,33 @@ export default function MainContent() {
           </p>
         </div>
 
-
+        {/* Adulthood */}
 
         <div className="mt-16 max-w-2xl">
-          <h2 className="text-2xl font-bold tracking-tight text-gray-900">His Legacy</h2>
+          <h2 className="text-2xl font-bold tracking-tight text-gray-900"><span className='text-yellow-600'>Adulthood:</span> Learning to Live</h2>
           <ImageCard imageAlt="profile" imageCaption="With his grandchildren." imageSrc="https://media.discordapp.net/attachments/873425447772356608/1181415733356417104/abueloConNietos.jpg?ex=6580fa24&is=656e8524&hm=16000eec603876cffcea82cf7caf9ea8a54068fa7bf214268a8482c1d6d5fb2e&=&format=webp&width=1430&height=1073"/>
+          <p className="mt-6">
+            Purus morbi dignissim senectus mattis adipiscing. Amet, massa quam varius orci dapibus volutpat cras. In
+            amet eu ridiculus leo sodales cursus tristique. Tincidunt sed tempus ut viverra ridiculus non molestie.
+            Gravida quis fringilla amet eget dui tempor dignissim. Facilisis auctor venenatis varius nunc, congue erat
+            ac. Cras fermentum convallis quam.
+          </p>
+          <p className="mt-8">
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+          </p>
+          <p className="mt-8">
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+          </p>
+        </div>
+      
+
+        <div className="mt-16 max-w-2xl">
+          <h2 className="text-2xl font-bold tracking-tight text-gray-900"><span className='text-yellow-600'>His Legacy:</span> Family</h2>
+          <ImageCard imageAlt="profile" imageCaption="Grandchildren and wife planting a tree in the backyard." imageSrc="https://cdn.discordapp.com/attachments/818641031250968596/1181621709086937199/WhatsApp_Image_2023-12-05_at_09.39.03.jpeg?ex=6581b9f8&is=656f44f8&hm=ac2884efedef5dc92d8a7712e1eae975da15e2278ac42358a5d6d72bea35bf5b&"/>
           <p className="mt-6">
             Purus morbi dignissim senectus mattis adipiscing. Amet, massa quam varius orci dapibus volutpat cras. In
             amet eu ridiculus leo sodales cursus tristique. Tincidunt sed tempus ut viverra ridiculus non molestie.
