@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div className="bg-white">
       <HeroSection/>
+      <br></br>
       <MainContent/>
     </div>
   )

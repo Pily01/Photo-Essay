@@ -10,7 +10,7 @@ export default function HeroSection() {
         <div className="mx-auto max-w-2xl lg:mx-0">
           
           <h1 className="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">
-            Norberto Dominguez Aguirre
+            Norberto <span className="text-yellow-600">Dominguez</span> Aguirre
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
           "Happiness, in all its nuances, is only perceived by those who have experienced unhappiness, pain, despair, the bitterness of losing a loved one, the frustration of not having reached a goal. Only those who have known the vastness of the plains can feel the beautiful majesty of the mountains."

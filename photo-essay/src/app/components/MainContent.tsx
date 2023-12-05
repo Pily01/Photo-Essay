@@ -15,7 +15,6 @@ export default function MainContent() {
           egestas fringilla sapien.
         </p>
 
-        
         <div>
             <ImageSlider 
                 imageAlt="profile" 
@@ -72,6 +71,37 @@ export default function MainContent() {
             Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
             sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
           </p>
+          <ImageCard imageAlt="profile" imageCaption="Wedding day at the altar." imageSrc="https://media.discordapp.net/attachments/873425447772356608/1181057144099962890/Boda_yaya_y_el_abuelo_4.jpeg?ex=657fac2e&is=656d372e&hm=2ba28c791cac58ae8f5f74c79238077e35b2427456c0f9b4606d46f8c3fae74c&=&format=webp&width=1071&height=1342"/>
+          <p className="mt-10">
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+          </p>
+          <p className="mt-10">
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+          </p>
+          <figure className="mt-10 border-l border-yellow-600 pl-9">
+            <blockquote className="font-semibold text-gray-900">
+              <p>
+                “Vel ultricies morbi odio facilisi ultrices accumsan donec lacus purus. Lectus nibh ullamcorper ac
+                dictum justo in euismod. Risus aenean ut elit massa. In amet aliquet eget cras. Sem volutpat enim
+                tristique.”
+              </p>
+            </blockquote>
+            <figcaption className="mt-6 flex gap-x-4">
+              <div className="text-sm leading-6">
+                <strong className="font-semibold text-gray-900">Guadalupe Dominguez</strong> – Daughter
+              </div>
+            </figcaption>
+          </figure>
+          <p className="mt-8">
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+          </p>
         </div>
 
 
@@ -86,6 +116,26 @@ export default function MainContent() {
             ac. Cras fermentum convallis quam.
           </p>
           <p className="mt-8">
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+          </p>
+          <figure className="mt-10 border-l border-yellow-600 pl-9">
+            <blockquote className="font-semibold text-gray-900">
+              <p>
+                “Vel ultricies morbi odio facilisi ultrices accumsan donec lacus purus. Lectus nibh ullamcorper ac
+                dictum justo in euismod. Risus aenean ut elit massa. In amet aliquet eget cras. Sem volutpat enim
+                tristique.”
+              </p>
+            </blockquote>
+            <figcaption className="mt-6 flex gap-x-4">
+              <div className="text-sm leading-6">
+                <strong className="font-semibold text-gray-900">Guadalupe Dominguez</strong> – Daughter
+              </div>
+            </figcaption>
+          </figure>
+          <p className="mt-8">
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
             Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
             sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
           </p>
