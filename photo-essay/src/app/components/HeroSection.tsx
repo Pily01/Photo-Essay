@@ -10,7 +10,7 @@ export default function HeroSection() {
               Norberto <span className="text-yellow-600">Dominguez</span> Aguirre
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 	font-style: italic">
-              "Happiness, in all its nuances, is only perceived by those who have experienced unhappiness, pain, despair, the bitterness of losing a loved one, the frustration of not having reached a goal. Only those who have known the vastness of the plains can feel the beautiful majesty of the mountains."
+            “Happiness, in all its nuances, is only perceived by those who have experienced unhappiness, pain, despair, the bitterness of losing a loved one, the frustration of not having reached a goal. Only those who have known the vastness of the plains can feel the beautiful majesty of the mountains.”
             </p>
             <p className="mt-6 text-m leading-8 text-gray-600">
               Experiencias y Reflexiones, 2009
