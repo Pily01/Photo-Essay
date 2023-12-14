@@ -15,8 +15,8 @@ export default function ImageCard({imageSrc, imageCaption, imageAlt} : ImageCard
       src={imageSrc}
       alt={imageAlt}
     />
-    <figcaption className="mt-4 flex gap-x-2 text-sm leading-6 text-gray-500">
-      <InformationCircleIcon className="mt-0.5 h-5 w-5 flex-none text-gray-300" aria-hidden="true" />
+    <figcaption className="mt-4 flex gap-x-2 text-xl leading-6 text-gray-500">
+      <InformationCircleIcon className="mt-0.5 h-5 w-5 flex-none text-gray-400" aria-hidden="true" />
       {imageCaption}
     </figcaption>
   </figure>
