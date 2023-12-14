@@ -21,7 +21,7 @@ export default function MainContent() {
             />
             <figcaption className="mt-4 flex gap-x-2 text-xl leading-6 text-gray-500">
             <InformationCircleIcon className="mt-0.5 h-5 w-5 flex-none text-gray-400" aria-hidden="true" />
-                Figure 1: Portrait of Norberto Dominguez Aguirre, age 31. Figure 2: Norberto laguing at a family reunion, age 71.
+                Fig. 1. Portrait of Norberto Dominguez Aguirre, age 31. Fig. 2. Norberto laguing at a family reunion, age 71.
             </figcaption>
         </div>
         
@@ -30,7 +30,7 @@ export default function MainContent() {
         <h2 className="mt-12 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"><span className='text-yellow-600'>Childhood</span> and Early Life</h2>
 
         <div className="mt-10 text-xl leading-8 text-justify text-black">
-          <ImageCard imageAlt="profile" imageCaption="Figure 3: Taken by Gerardo Martin Fernandez Vallejo. Picture of Guanajuato, Mexico" imageSrc="https://images.unsplash.com/photo-1585975983978-457f5cbc7dab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+          <ImageCard imageAlt="profile" imageCaption="Fig. 2. Photograph taken by Gerardo Martin Fernandez Vallejo. Picture of Guanajuato, Mexico" imageSrc="https://images.unsplash.com/photo-1585975983978-457f5cbc7dab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
           <p className="mt-8 text-xl leading-8 text-justify text-black">
             Faced with economic difficulties, my grandfather sought various means to assist his family financially. He gathered his middle school friends to form a group to create short stories and drawings, which they submitted to the local newspaper, earning money for each accepted piece. He also participated in local radio contests, which offered cash prizes to the winners. However, his most successful venture was a small-furniture business he established with his friends. Since they could not work while being students, they crafted all the furniture during the summer in a friend's woodshop. Afterward, my grandfather’s mother would sell them in Guanajuato's Central Garden. These ventures and ideas are an early example of how my grandfather faced challenges with grace and creativity.
           </p>
@@ -79,12 +79,12 @@ export default function MainContent() {
         <div className="mt-10 text-xl leading-8 text-justify text-black">
           <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl"><span className='text-yellow-600'>Marriage</span> and Family</h2>
           
-          <ImageCard imageAlt="profile" imageCaption="Norberto and Emilia Garcia-Diego at the altar on their wedding day." imageSrc='https://media.discordapp.net/attachments/873425447772356608/1181057144972386355/Boda_yaya_y_el_abuelo_2.jpg?ex=6588e6ae&is=657671ae&hm=5d38a6994caccf3cefc451a65eb411e9bee734c783d4e53674cc833cbdddfa91&=&format=webp&width=1005&height=1342'/>
+          <ImageCard imageAlt="profile" imageCaption="Fig. 3. Norberto and Emilia Garcia-Diego at the altar on their wedding day." imageSrc='https://media.discordapp.net/attachments/873425447772356608/1181057144972386355/Boda_yaya_y_el_abuelo_2.jpg?ex=6588e6ae&is=657671ae&hm=5d38a6994caccf3cefc451a65eb411e9bee734c783d4e53674cc833cbdddfa91&=&format=webp&width=1005&height=1342'/>
         
           <p className="mt-8 text-xl leading-8 text-justify text-black">
           My grandfather fell in love with my grandmother through one of her portraits. As a college student, he used to give personal classes to other students at their homes. In one of those classes, he saw a portrait of my grandmother, Emilia, and asked about her. He learned that she lived in Spain and managed to get her contact information to write her a letter. They wrote to each other for a year, after which he decided to go to Spain and meet her for the first time. He spent Christmas Eve with Emilia and her family, after which he returned to Mexico. Despite the distance, they continued their relationship through letters for another year. The next time they saw each other was on their wedding day, September 19, 1964.
           </p>
-          <ImageCard imageAlt="profile" imageCaption="Emilia and Norberto with their grandchildren at a family party." imageSrc="https://media.discordapp.net/attachments/873425447772356608/1181415733356417104/abueloConNietos.jpg?ex=6580fa24&is=656e8524&hm=16000eec603876cffcea82cf7caf9ea8a54068fa7bf214268a8482c1d6d5fb2e&=&format=webp&width=1430&height=1073"/>
+          <ImageCard imageAlt="profile" imageCaption="Fig. 4. Emilia and Norberto with their grandchildren at a family party." imageSrc="https://media.discordapp.net/attachments/873425447772356608/1181415733356417104/abueloConNietos.jpg?ex=6580fa24&is=656e8524&hm=16000eec603876cffcea82cf7caf9ea8a54068fa7bf214268a8482c1d6d5fb2e&=&format=webp&width=1430&height=1073"/>
 
           <p className="mt-8 text-xl leading-8 text-justify text-black">
             After the wedding, they returned to Mexico City, where they started a family. They had four children, three sons, and a daughter, each of whom has a family of their own. Eventually, Emilia and Norberto became grandparents of seven grandchildren.
@@ -109,7 +109,7 @@ export default function MainContent() {
             </figcaption>
           </figure>
           
-          <ImageCard imageAlt="profile" imageCaption="Emilia and her grandchildren planting a tree at her garden." imageSrc="https://cdn.discordapp.com/attachments/818641031250968596/1181621709086937199/WhatsApp_Image_2023-12-05_at_09.39.03.jpeg?ex=6581b9f8&is=656f44f8&hm=ac2884efedef5dc92d8a7712e1eae975da15e2278ac42358a5d6d72bea35bf5b&"/>
+          <ImageCard imageAlt="profile" imageCaption="Fig. 5. Emilia and her grandchildren planting a tree at her garden." imageSrc="https://cdn.discordapp.com/attachments/818641031250968596/1181621709086937199/WhatsApp_Image_2023-12-05_at_09.39.03.jpeg?ex=6581b9f8&is=656f44f8&hm=ac2884efedef5dc92d8a7712e1eae975da15e2278ac42358a5d6d72bea35bf5b&"/>
           
           <p className="mt-8 text-xl leading-8 text-justify text-black">
           Those who love us never truly leave us when they pass away. My life, along with those of my cousins, will always be intertwined with Norberto’s and Emilia’s: they were the runners before us, giving us a home, family, education, and other privileges as their baton. Our accomplishments are built upon the crises they endured and the race they covered, together and on their own. I see them in the college I have the privilege to attend, in the opportunities I have been offered, and in the challenges we are forced to face in our quest for a better quality of life. As my grandfather’s story came to an end, me and my cousins continued his legacy, hoping we pass a baton of equal worth: full of love, family, and possibilities.

@@ -13,13 +13,8 @@ export default function HeroSection() {
             “Happiness, in all its nuances, is only perceived by those who have experienced unhappiness, pain, despair, the bitterness of losing a loved one, the frustration of not having reached a goal. Only those who have known the vastness of the plains can feel the beautiful majesty of the mountains.”
             </p>
             <p className="mt-6 text-m leading-8 text-gray-600">
-              Experiencias y Reflexiones, 2009
+              (Dominguez, 2009)
             </p>
-            <div className="mt-10 flex items-center gap-x-6">
-              <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
-                Learn more <span aria-hidden="true">→</span>
-              </a>
-            </div>
           </div>
         </div>
         <div className="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">
