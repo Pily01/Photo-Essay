@@ -1,4 +1,4 @@
-import { InformationCircleIcon, CameraIcon} from '@heroicons/react/20/solid';
+import { InformationCircleIcon, CameraIcon} from "@heroicons/react/20/solid";
 
 import ImageCard from "./ImageCard"
 import ImageSlider from "./ImageSlider"
@@ -42,7 +42,7 @@ export default function MainContent() {
           <figure className="mt-10 border-l border-yellow-600 pl-9">
             <blockquote className="font-semibold text-gray-900">
               <p>
-              "I decided to study a career that would allow me to build capital to self-finance and study my favorite science, Physics.” 
+              “I decided to study a career that would allow me to build capital to self-finance and study my favorite science, Physics.” 
               </p>
             </blockquote>
             <figcaption className="mt-6 flex gap-x-4">
@@ -59,7 +59,7 @@ export default function MainContent() {
           <figure className="mt-10 border-l border-yellow-600 pl-9">
             <blockquote className="font-semibold text-gray-900">
               <p>
-              “The apparent wealth that Uncle Miguel displayed heavily influenced my choice of career. His physical appearance, his elegant attire, and his extraordinary and fertile imagination convinced anyone who listened that working in the oil industry meant getting rich overnight."
+              “The apparent wealth that Uncle Miguel displayed heavily influenced my choice of career. His physical appearance, his elegant attire, and his extraordinary and fertile imagination convinced anyone who listened that working in the oil industry meant getting rich overnight.”
               </p>
             </blockquote>
             <figcaption className="mt-6 flex gap-x-4">
@@ -79,8 +79,8 @@ export default function MainContent() {
         <div className="mt-10 text-xl leading-8 text-justify text-black">
           <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl"><span className='text-yellow-600'>Marriage</span> and Family</h2>
           
-          <ImageCard imageAlt="profile" imageCaption="Fig. 3. Norberto and Emilia Garcia-Diego at the altar on their wedding day." imageSrc='https://media.discordapp.net/attachments/873425447772356608/1181057144972386355/Boda_yaya_y_el_abuelo_2.jpg?ex=6588e6ae&is=657671ae&hm=5d38a6994caccf3cefc451a65eb411e9bee734c783d4e53674cc833cbdddfa91&=&format=webp&width=1005&height=1342'/>
-        
+          <ImageCard imageAlt="profile" imageCaption="Fig. 3. Norberto and Emilia Garcia-Diego at the altar on their wedding day." imageSrc="https://media.discordapp.net/attachments/873425447772356608/1181057144972386355/Boda_yaya_y_el_abuelo_2.jpg?ex=6588e6ae&is=657671ae&hm=5d38a6994caccf3cefc451a65eb411e9bee734c783d4e53674cc833cbdddfa91&=&format=webp&width=1005&height=1342"/>
+      
           <p className="mt-8 text-xl leading-8 text-justify text-black">
           My grandfather fell in love with my grandmother through one of her portraits. As a college student, he used to give personal classes to other students at their homes. In one of those classes, he saw a portrait of my grandmother, Emilia, and asked about her. He learned that she lived in Spain and managed to get her contact information to write her a letter. They wrote to each other for a year, after which he decided to go to Spain and meet her for the first time. He spent Christmas Eve with Emilia and her family, after which he returned to Mexico. Despite the distance, they continued their relationship through letters for another year. The next time they saw each other was on their wedding day, September 19, 1964.
           </p>
@@ -99,7 +99,7 @@ export default function MainContent() {
           <figure className="mt-10 border-l border-yellow-600 pl-9">
             <blockquote className="font-semibold text-gray-900">
               <p>
-              "Life is a relay race, in which the advantage held by the runner at the moment of passing the baton is of essence."
+              “Life is a relay race, in which the advantage held by the runner at the moment of passing the baton is of essence.”
               </p>
             </blockquote>
             <figcaption className="mt-6 flex gap-x-4">
