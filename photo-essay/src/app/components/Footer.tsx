@@ -14,13 +14,13 @@ export default function Footer() {
               </p>
   
             <a href={essayUrl} download="FinalReflectionEssay.docx">
-            <button
-              type="button"
-              className="mt-10 inline-flex items-center gap-x-2 rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-black shadow-sm hover:bg-gray-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-            >
-              <ArrowDownOnSquareIcon className="-ml-0.5 h-5 w-5" aria-hidden="true" />
-              Download Final Reflection Essay
-            </button>
+              <button
+                type="button"
+                className="mt-10 inline-flex items-center gap-x-2 rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-black shadow-sm hover:bg-gray-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+              >
+                <ArrowDownOnSquareIcon className="-ml-0.5 h-5 w-5" aria-hidden="true" />
+                Download Final Reflection Essay
+              </button>
           </a>
             </div>
           </div>
